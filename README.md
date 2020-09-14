@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I am Eric Mbouwe a full-stack software developer, experienced with customer relationship and sales
 <!--
 **EricMbouwe/EricMbouwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,8 +14,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 
-Check out my [English Resume](https://github.com/EricMbouwe/EricMbouwe/blob/master/Eric%Mbouwe%20-%20Resume.pdf) or [French Resume](https://github.com/EricMbouwe/EricMbouwe/blob/master/Eric%Mbouwe%20-%20Currículo.pdf), please feel free to pass it along :scroll:.
+Check out my Resume [English](https://github.com/EricMbouwe/EricMbouwe/blob/master/Eric%Mbouwe%20-%20Resume.pdf) | [French](https://github.com/EricMbouwe/EricMbouwe/blob/master/Eric%Mbouwe%20-%20Currículo.pdf)
 
 This is my [Portfolio](https://www.ericmbouwe.netlify.app/) :desktop_computer:.
 
