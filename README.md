@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 Check out my Resume [English](https://github.com/EricMbouwe/EricMbouwe/raw/master/CV-Eric-En.pdf) | [French](https://github.com/EricMbouwe/EricMbouwe/raw/master/CV-Eric-fr.pdf)
 
-This is my [Portfolio](https://www.ericmbouwe.netlify.app/) :desktop_computer:.
+This is my [Portfolio](https://ericmbouwe.netlify.app/) :desktop_computer:.
 
 <div>
 <img align="center" src='https://github-readme-stats.vercel.app/api?username=EricMbouwe&count_private=true&show_icons=true&theme=great-gatsby' alt='Eric's github stats'>
