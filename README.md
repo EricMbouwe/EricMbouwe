@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Eric Mbouwe a full-stack software developer, experienced with customer relationship and sales
+I am Eric Mbouwe a full-stack software developer
 <!--
 **EricMbouwe/EricMbouwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
