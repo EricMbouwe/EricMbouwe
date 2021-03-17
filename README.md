@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Check out my Resume [English](https://github.com/EricMbouwe/EricMbouwe/raw/master/CV-Eric-En.pdf) | [French](https://github.com/EricMbouwe/EricMbouwe/raw/master/CV-Eric-fr.pdf)
+Check out my Resume [English](https://github.com/EricMbouwe/EricMbouwe/raw/master/) | [French](https://github.com/EricMbouwe/EricMbouwe/raw/master/)
 
 This is my [Portfolio](https://ericmbouwe.netlify.app/) :desktop_computer:.
 
