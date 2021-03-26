@@ -33,6 +33,7 @@ This is my [Portfolio](https://ericmbouwe.netlify.app/) :desktop_computer:.
       src="https://www.kindpng.com/picc/m/464-4640184_css3-png-download-css-icon-transparent-png.png">
     <img title="Ruby" alt="Ruby" height=40 src="https://blog.mwpreston.net/wp-content/uploads/2018/09/ruby-logo.png">
     <img title="Ruby On Rails" alt="Ruby On Rails" height=40 src="https://guides.rubyonrails.org/images/favicon.ico">
+    <img tiltle="NodeJs" alt="Node js" height=40 src="https://nodejs.org/static/images/logo.svg">
     <img title="JavaScript" alt="JavaScript" height=40
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/600px-Unofficial_JavaScript_logo_2.svg.png">
     <img title="React" alt="React" height=40 src="https://cdn.worldvectorlogo.com/logos/react.svg">
