@@ -45,7 +45,7 @@ This is my [Portfolio](https://ericmbouwe.netlify.app/) :desktop_computer:.
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/480px-Bootstrap_logo.svg.png">
     <img title="Jest" alt="Jest" height=40 src="https://jestjs.io/img/jest-card-run.svg">
     <img title="RSpec" alt="RSpec" height=40 src="https://seeklogo.com/images/R/rspec-logo-DA1EE19A18-seeklogo.com.png">
-    <img title="Webpack" alt="Webpack" height=40 src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg">
+    <img title="Webpack" alt="Webpack" height=40 src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg">
     <img title="Git" alt="Git" height=40 src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
     <img title="Python" alt="Python" height=40 src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png">
   </span>
