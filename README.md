@@ -36,6 +36,7 @@ This is my [Portfolio](https://ericmbouwe.netlify.app/) :desktop_computer:.
     <img tiltle="NodeJs" alt="Node js" height=40 src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
     <img title="JavaScript" alt="JavaScript" height=40
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/600px-Unofficial_JavaScript_logo_2.svg.png">
+    <img title="Java" alt="Java" height=40 src="https://www.vectorlogo.zone/logos/java/java-icon.svg">
     <img title="React" alt="React" height=40 src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
     <img title="Redux" alt="Redux" height=40 src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png">
     <img title="SQL" alt="SQL" height=40
